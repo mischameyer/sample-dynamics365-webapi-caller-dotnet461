@@ -5,7 +5,7 @@ This is a simple Console-Sample to retrieve contacts over a Web-Api-Call fronm  
 
 # Prerequisite:
 -You need a valid dynamics365 account: 
-https://dynamics.microsoft.com/de-de/\
+https://dynamics.microsoft.com/de-de/
 
 -You need to register a an app and obtain a valid client-id:
 https://msdn.microsoft.com/dynamics/crm/mt149065
